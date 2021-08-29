@@ -4,7 +4,7 @@
 Plugin Name: Display Eventbrite Legacy Widget Template & CSS
 Plugin URI: https://github.com/alanef/display-eventbrite-template-legacy-widget
 Description: Legcay Widget as prior to v 3.0 of Display Eventbrite
-Version: 1.0
+Version: 1.1
 Author: alan
 Author URI: https://fullworks.net
 License: GPL2

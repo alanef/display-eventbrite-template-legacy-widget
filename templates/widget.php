@@ -8,7 +8,7 @@
  * @var mixed $data Custom data for the template.
  */
 // Recent posts wrapper
-printf( '<div %1$s class="eaw-block %2$s">',
+printf( '<div %1$s class="eaw-legacy eaw-block %2$s">',
 	( ! empty( $data->args['cssID'] ) ? 'id="' . esc_attr( $data->args['cssID'] ) . '"' : '' ),
 	( ! empty( $data->args['css_class'] ) ? '' . esc_attr( $data->args['css_class'] ) . '' : '' )
 );
